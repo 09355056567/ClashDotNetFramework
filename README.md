@@ -27,6 +27,7 @@ A Clash GUI Proxy For Windows Based On .NET 5
 - Powerful Stats - interactive speed graph with 30 recent speed logs
 - Globalization - multi-language graphic user interface, support English, Chinese, Japanese and Persian
 - Portable Mode - save the config file in current application folder
+- Replaceable Kernel - support Open Source, Experimental and Premium Clash Core
 - Remote Controller Mode - control clash on your router or anywhere else
 
 ## Availability
@@ -46,7 +47,6 @@ A Clash GUI Proxy For Windows Based On .NET 5
 - [Clash](https://github.com/Dreamacro/clash)
 - [ClashX](https://github.com/yichengchen/clashX)
 - [Clash-Dashboard](https://github.com/Dreamacro/clash-dashboard)
-- [Clash For Windows](https://github.com/Fndroid/clash_for_windows_pkg)
 - [Netch](https://github.com/NetchX/Netch)
 - [NetFilter SDK](https://netfiltersdk.com)
 - [Pcap2socks](https://github.com/zhxie/pcap2socks)
