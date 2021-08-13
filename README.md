@@ -26,6 +26,7 @@ A Clash GUI Proxy For Windows Based On .NET 5
 - Powerful TrayIcon - copy proxy setting commands, open terminal with proxy set up, set proxy to telegram, etc.
 - Powerful Stats - interactive speed graph with 30 recent speed logs
 - Globalization - multi-language graphic user interface, support English, Chinese, Japanese and Persian
+- Smart Localization - localize the interface by your system language
 - Portable Mode - save the config file in current application folder
 - Replaceable Kernel - support Open Source, Experimental and Premium Clash Core
 - Remote Controller Mode - control clash on your router or anywhere else
