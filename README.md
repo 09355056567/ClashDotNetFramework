@@ -31,5 +31,8 @@ A Clash GUI Proxy For Windows Based On .NET 5
 - Replaceable Kernel - support Open Source, Experimental and Premium Clash Core
 - Remote Controller Mode - control clash on your router or anywhere else
 
+## Documentation
+See the [Document](https://docs.clashnet.org) to get started.
+
 ## Disclaimer
 See the [DISCLAIMER](https://github.com/ClashDotNetFramework/ClashDotNetFramework/blob/main/DISCLAIMER.md) file for more info.
