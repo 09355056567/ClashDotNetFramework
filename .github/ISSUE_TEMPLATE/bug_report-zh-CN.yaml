@@ -18,11 +18,19 @@ body:
         2. ...
     validations:
       required: true
+  - type: checkboxes
+    id: captcha
+    attributes:
+      label: 真人验证
+      description: 请勾选下面的选框.
+      options:
+        - label: 请确认在提交Issue前你已经看过readme并且搜索和阅读过相关问题。否则你的Issue会被标记为重复并立即关闭。
+          required: true
   - type: textarea
     id: log
     attributes:
       label: 日志
-      description: 强烈建议附上任何在 `logging` 文件夹下面的日志
+      description: 强烈建议附上任何在 `logs` 文件夹下面的日志
     validations:
       required: true
   - type: textarea
